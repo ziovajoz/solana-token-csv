@@ -1,0 +1,33 @@
+{
+  "chain_id": "solana",
+
+  "liquidity_min_usd": 25000,
+  "min_volume_24h_usd": 200000,
+
+  "max_candidates": 3000,
+  "lookback_days": 30,
+
+  "coingecko_api_key": "CG-8ZmZwQALWgJ7ncn7YFeUDZnu",
+
+  "blacklist_tokens": [
+    "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+    "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
+    "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn"
+  ],
+
+  "max_launch_age_days": 30,
+
+  "dex_allowlist": ["orca", "meteora", "pumpswap"],
+  "quote_allowlist": ["SOL", "USDC", "USDT"],
+
+  "launch_min_liquidity_usd": 7500,
+  "launch_min_volume_24h_usd": 15000,
+
+  "launch_fallback_min_liquidity_usd": 2000,
+  "launch_fallback_min_volume_24h_usd": 3000,
+
+  "max_pairs_for_new": 8,
+  "pairs_guard_mode": "exclude",
+
+  "pairs_guard_ignore_days": 30
+}
