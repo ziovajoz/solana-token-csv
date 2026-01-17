@@ -21,4 +21,26 @@ Wrote shortlists to: C:\Users\phili\OneDrive\Documents\GitHub\solana-token-csv\o
   tokens_7d_30d.csv
 
 Tip: review tokens_0_24h first for early buyer hunts.
-^C
+^CRunning token shortlist builder...
+REPO_ROOT: C:\Users\phili\OneDrive\Documents\GitHub\solana-token-csv
+OUTPUT_DIR: C:\Users\phili\OneDrive\Documents\GitHub\solana-token-csv\output
+CACHE_PATH: C:\Users\phili\OneDrive\Documents\GitHub\solana-token-csv\candidate_cache.csv
+CoinGecko pools scanned (<=10 pages): 200
+DexScreener added (profiles):        0
+DexScreener added (takeovers):       0
+DexScreener added (search):          1
+DexScreener added (token boosts):    0
+Candidate cache size:                833
+
+DEBUG launch age stats:
+Max launch_age_hours: 637.0945436052777
+Tokens older than 72h: 20
+Tokens older than 7d: 14
+
+Wrote shortlists to: C:\Users\phili\OneDrive\Documents\GitHub\solana-token-csv\output
+  tokens_0_24h.csv
+  tokens_24_72h.csv
+  tokens_72h_7d.csv
+  tokens_7d_30d.csv
+
+Tip: review tokens_0_24h first for early buyer hunts.
