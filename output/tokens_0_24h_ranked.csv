@@ -1,3 +1,1 @@
 rank_by_wallet_signal,Name,Symbol,Token Address,DEX,age_bucket,launch_dt,launch_age_hours,Liquidity_fmt,Volume_24h_fmt,MC/FDV_fmt,liquidity_growth_pct,wallet_hunt_signal,pairs_count,launch_conf,seen_count,txns_h1,txns_h24,liq_to_vol,wallet_scan_candidate,wallet_scan_priority,shortlist_reason,heat_override,wallet_scan_eligible
-1,Milhouse’s Dad Coin,MILD,6BQf97k2aS3i2XyLf6Wua3HuVnwB6KKfpyAEPpUupump,pumpswap,12-24h,2026-01-22T07:07:20+00:00,20.624678417222224,23.27k,21.38k,59.56k,4.37,3.312178816886273,2,high,5,575,1756,,True,2,OK,False,True
-2,Sidex,SIDEX,8ggbc72zhyA57NdToPZ3DikcXxkS8hnJfdfZVtwLpump,pumpswap,0-6h,2026-01-23T03:31:18+00:00,0.2252339727777778,18.61k,18.23k,38.25k,0.0,8.674134683158075,2,high,5,303,303,,True,3,OK,False,True
