@@ -1,2 +1,2 @@
 Name,Symbol,Token Address,DEX,age_bucket,launch_dt,launch_age_hours,Liquidity_fmt,Volume_24h_fmt,MC/FDV_fmt,liquidity_growth_pct,wallet_hunt_signal,pairs_count,launch_conf,seen_count,txns_h1,txns_h24,liq_to_vol,wallet_scan_candidate,wallet_scan_priority,shortlist_reason,heat_override,wallet_scan_eligible
-Nietzschean Dog,DOG,BfFU13dyBbYT5E4dZdeFHe5YeH6p9DdTh8fheThspump,pumpswap,48-72h,2026-01-21T17:08:01+00:00,64.87491416444445,33.07k,639.37k,111.56k,146.79,1.7277087032056877,1,high,21,658,74455,0.051716,True,1,OK+HEAT,True,True
+Nietzschean Dog,DOG,BfFU13dyBbYT5E4dZdeFHe5YeH6p9DdTh8fheThspump,pumpswap,48-72h,2026-01-21T17:08:01+00:00,68.87551625305555,25.83k,586.86k,67.33k,92.78,1.618419287930306,1,high,22,239,75066,0.044012,True,2,OK,False,True
