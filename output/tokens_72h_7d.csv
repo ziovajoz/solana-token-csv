@@ -1,3 +1,2 @@
 Name,Symbol,Token Address,DEX,age_bucket,launch_dt,launch_age_hours,Liquidity_fmt,Volume_24h_fmt,MC/FDV_fmt,liquidity_growth_pct,wallet_hunt_signal,pairs_count,launch_conf,seen_count,txns_h1,txns_h24,liq_to_vol,wallet_scan_candidate,wallet_scan_priority,shortlist_reason,heat_override,wallet_scan_eligible
-Yo mama ,yomama,E2BLSv4tXo7qA4Pr3nkJqxyn6743peC7x8E9D5s8pump,pumpswap,3-7d,2026-01-21T04:44:45+00:00,145.262717275,90.84k,566.25k,595.34k,680.63,0.8684813119734038,2,high,2,67,3678,0.16043,True,3,OK,False,True
-GameStop,GME,3DpmH888HsxjC2V6QejWeEWa2MNLhQxQUovswBvvBAGS,meteora,3-7d,2026-01-20T07:41:56+00:00,166.30966171944445,31.04k,281.04k,129.26k,52.27,0.7097746100931959,2,high,8,58,3067,0.110446,True,3,OK,False,True
+Yo mama ,yomama,E2BLSv4tXo7qA4Pr3nkJqxyn6743peC7x8E9D5s8pump,pumpswap,3-7d,2026-01-21T04:44:45+00:00,149.26226584111112,105.04k,606.25k,795.91k,802.62,0.8535171203252625,2,high,2,32,3816,0.173258,True,3,OK,False,True
