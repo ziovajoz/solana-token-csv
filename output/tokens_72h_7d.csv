@@ -1,1 +1,4 @@
 Name,Symbol,Token Address,DEX,age_bucket,launch_dt,launch_age_hours,Liquidity_fmt,Volume_24h_fmt,MC/FDV_fmt,liquidity_growth_pct,wallet_hunt_signal,pairs_count,launch_conf,seen_count,txns_h1,txns_h24,liq_to_vol,wallet_scan_candidate,wallet_scan_priority,shortlist_reason,heat_override,wallet_scan_eligible
+THE LEPUS,LEPUS,kiJUVYSiVYjyBbG7eJ7rsxrBox74oxvPWvyPYdPpump,pumpswap,3-7d,2026-01-27T02:37:10+00:00,75.38906909611111,138.66k,2.01m,1.61m,60.5,10.455911086150946,1,high,41,1309,11932,0.069081,True,1,OK+HEAT,True,True
+Eva Everywhere,EVA,4gfNpwo8LQtcgGrNmgWhuwfFhttgZ8Qb6QXN4Yz8BAGS,meteora,3-7d,2026-01-25T20:42:04+00:00,105.30740242944445,125.44k,821.38k,1.96m,-26.64,9.72309805254811,8,high,42,155,4986,0.152725,True,1,OK+HEAT,True,True
+The Mountain,Mountain,GASfLqDbE8c9w8mjKknxaHeDMmdy9usGwM1GwzVJpump,pumpswap,3-7d,2026-01-23T13:09:50+00:00,160.84462465166666,70.87k,383.02k,277.87k,-15.58,8.557146183393428,2,high,25,74,3803,0.185035,True,3,OK,False,True
