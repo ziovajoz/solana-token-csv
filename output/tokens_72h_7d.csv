@@ -1,3 +1,2 @@
 Name,Symbol,Token Address,DEX,age_bucket,launch_dt,launch_age_hours,Liquidity_fmt,Volume_24h_fmt,MC/FDV_fmt,liquidity_growth_pct,wallet_hunt_signal,pairs_count,launch_conf,seen_count,txns_h1,txns_h24,liq_to_vol,wallet_scan_candidate,wallet_scan_priority,shortlist_reason,heat_override,wallet_scan_eligible
-Meme Liquid,LIQUID,71mfKdePwyWXtiF1mqu2aaCdMKnKuN664z2vEM2Xpump,pumpswap,3-7d,2026-02-07T20:54:07+00:00,125.10688783611111,87.87k,664.93k,757.70k,-2.0,9.258910720270725,10,high,4,91,7636,0.132152,True,1,OK+HEAT,True,True
-level941,Pigeon,4fSWEw2wbYEUCcMtitzmeGUfqinoafXxkhqZrA9Gpump,pumpswap,3-7d,2026-02-06T04:32:32+00:00,165.46661005833332,100.27k,625.09k,834.44k,219.93,9.010788756501633,4,high,7,507,6404,0.160401,True,1,OK+HEAT,True,True
+Meme Liquid,LIQUID,71mfKdePwyWXtiF1mqu2aaCdMKnKuN664z2vEM2Xpump,pumpswap,3-7d,2026-02-07T20:54:07+00:00,129.10623562111113,83.68k,598.67k,688.30k,-6.68,9.15885796319566,10,high,4,137,6808,0.139774,True,1,OK+HEAT,True,True
